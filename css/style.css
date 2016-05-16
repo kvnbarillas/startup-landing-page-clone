@@ -3,6 +3,10 @@
 }
 .top-navigation>.content{
 	width: 970px;
-	height: 70px;
-	margin: 0 auto;
+	height: 7px;
+	padding: 0px 15px;
+}
+.top-navigation>.links{
+	float:right;
+	display: inline-block;
 }
