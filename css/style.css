@@ -5,11 +5,8 @@
 	width: 970px;
 	height: 70px;
 	margin: 0 auto;
+	padding:0px 15px;
 }
 .top-navigation>.links{
 	float: right;
-}
-.top-navigation>.logo{
-	margin-left: 16px;
-	height:70px;
 }
