@@ -8,6 +8,9 @@ html {
 
 .top-navigation {
 	background-color: #fff;
+	postion: fixed;
+	width: 100%;
+	z-index: 9999;
 }
 
 .top-navigation > .content {
@@ -90,3 +93,32 @@ button {
 	cursor: pointer;
 	background-color: #c74a22;
 }
+
+.cases .content {
+	font-family: 'Roboto', sans-serif;
+	margin:0 auto;
+	width: 970px;
+	color: black;
+	padding: 0px 15px;
+	display: flex;
+	flex-direction: row;
+	text-align: center;
+
+}
+
+.cases .devices {
+	width: 33.3333333%;
+	display: inline-block;
+	height: 4em;
+}
+
+.cases h2 {
+	font-size: 2.75rem;
+	font-weight: 300;
+	text-align: center;
+}
+
+
+
+
+
